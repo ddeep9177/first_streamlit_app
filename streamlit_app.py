@@ -1,4 +1,5 @@
 import streamlit
+import pandas
 
 streamlit.title('I will have healthy dinner')
 streamlit.header('todays menu')
